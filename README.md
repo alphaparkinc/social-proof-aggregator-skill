@@ -1,4 +1,4 @@
-# social-proof-aggregator-skill
+# genpark-social-proof-aggregator-skill
 
 > **GenPark AI Agent Skill** -- Aggregate social proof signals into display-ready review widgets, trust badges, and featured reviews for product pages.
 
