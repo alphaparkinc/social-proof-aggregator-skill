@@ -1,8 +1,8 @@
 {
   "name": "social-proof-aggregator-skill",
   "version": "1.0.0",
-  "description": "Aggregate, score, and format social proof signals (reviews, ratings, sales counts, testimonials) into display-ready widgets and trust badges for product pages.",
-  "author": "alphaparkinc",
+  "description": "GenPark AI Agent Skill - Aggregate, score, and format social proof signals (reviews, ratings, sales counts, testimonials) into display-ready widgets and trust badges for product pages.",
+  "author": "genpark",
   "category": "conversion",
   "tags": [
     "social-proof",
